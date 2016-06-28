@@ -2,13 +2,13 @@
 
 After completing this assignment, you should:
 
-* Understand the basics of jQuery $.ajax() and $.getJSON()
-* Understand how to use a jQuery based Promise (deferred) and how Async works.
+* Understand the basics of jQuery `$.ajax()` and `$.getJSON()`
+* Understand how to use a jQuery based `Promise` (`deferred`) and how Async works.
 
 ## Deliverables
 
 1. Submit the URL to your github repo
-2. Deploy to Surgh.sh and put a link in your Readme.md
+2. Deploy to `Surgh.sh` and put a link in your `Readme.md`
 
 ## Normal Mode
 

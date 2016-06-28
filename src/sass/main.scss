@@ -1,0 +1,25 @@
+@import "font-awesome";
+
+#my-form {
+  width: 535px;
+  // min-height: 650px;
+  margin: 0 auto;
+  // border: 1px solid blue;
+  border-radius: 3px;
+  position: relative;
+}
+.form-header {
+  height: 75px;
+  background: rgb(47, 135, 216);
+  text-align: center;
+  color: white;
+  font-size: 36px;
+  line-height: 65px;
+}
+.form-footer {
+  background: rgb(200, 222, 241);
+  height: 75px;
+  width: 100%;
+  // position: absolute;
+  bottom: 0px;
+}
