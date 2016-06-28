@@ -35,8 +35,8 @@ function typeSelect(data) {
 function typeTextArea(data) {
   var template = `
   	<div class="textarea"
-	  	<label for="${data.id}">${data.label}</label>
-	  	<textarea id="${data.id}"></textarea>
+	  	<label for="${data.id}">${data.label}
+	  	<textarea id="${data.id}"></textarea></label>
 	</div>
   `
   formContent.append(template)

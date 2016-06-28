@@ -31,7 +31,12 @@ input  {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
+textarea {
+    margin-left: 50px;
+    border-radius: 5px;
+    width: 300px;
+    height: 60px;
+}
 #user-email {
   margin-left: 29px;
 }
